@@ -1,0 +1,4 @@
+﻿  test.c
+H:\c test\test-24-1-16-01\test-24-1-16-01\test.c(229,52): warning C4133: “函数”: 从“char (__cdecl *)(const void *,const void *)”到“_CoreCrtNonSecureSearchSortCompareFunction”的类型不兼容
+H:\c test\test-24-1-16-01\test-24-1-16-01\test.c(312,17): warning C4101: “Stu”: 未引用的局部变量
+  test-24-1-16-01.vcxproj -> H:\c test\test-24-1-16-01\Debug\test-24-1-16-01.exe
